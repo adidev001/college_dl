@@ -1,1 +1,1 @@
-# Repo which consist all the lab work done in class
+# Repo which contains all the lab work done in the class
